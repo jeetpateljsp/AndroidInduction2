@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidInduction2</string>
+    <string name="default_team_name">ainotech</string>
+    <string name="team_hint">Enter a team name</string>
+</resources>
